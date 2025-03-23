@@ -15,6 +15,7 @@ import java.net.URLEncoder;
 
 @RestController
 @RequestMapping("/lists")
+@CrossOrigin(origins = "http://localhost:4200")
 public class ListaReproduccionController {
 
 

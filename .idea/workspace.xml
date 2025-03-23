@@ -5,18 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a5a05852-9e20-4246-a8a1-4078864a99f0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music-api/src/main/java/com/quipux/music_api/config/SecurityConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music-api/src/main/java/com/quipux/music_api/controllers/ListaReproduccionController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music-api/src/main/java/com/quipux/music_api/entities/Cancion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music-api/src/main/java/com/quipux/music_api/entities/ListaReproduccion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music-api/src/main/java/com/quipux/music_api/repositories/CancionRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music-api/src/main/java/com/quipux/music_api/repositories/ListaReproduccionRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music-api/src/main/java/com/quipux/music_api/services/ListaReproduccionService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music-api/src/main/java/com/quipux/music_api/config/CorsConfig.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/music-api/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/music-api/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/music-api/src/main/java/com/quipux/music_api/MusicApiApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/music-api/src/main/java/com/quipux/music_api/MusicApiApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/music-api/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/music-api/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/music-api/src/main/java/com/quipux/music_api/config/SecurityConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/music-api/src/main/java/com/quipux/music_api/config/SecurityConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/music-api/src/main/java/com/quipux/music_api/entities/ListaReproduccion.java" beforeDir="false" afterPath="$PROJECT_DIR$/music-api/src/main/java/com/quipux/music_api/entities/ListaReproduccion.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,7 +31,7 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProblemsViewState">
-    <option name="selectedTabId" value="ProjectErrors" />
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="2" />
